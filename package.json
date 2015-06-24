@@ -28,7 +28,7 @@
     "sqlite3": "3.0.8"
   },
   "dependencies": {
-    "bluebird": "2.3.2",
+    "bluebird": "2.9.24",
     "circular-json": "0.1.6"
   }
 }
